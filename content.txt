@@ -1,2 +1,2 @@
 Ez egy subrepo
-Módosítunk először új featuret adtunk hozzá
+Módosítunk először új featuret adtunk hozzá ez már rc
